@@ -32,6 +32,18 @@ freeze
 15 0          0
 freeze
 
+0 15          0
+fan
+
+15 0          15
+fan
+
+10 10         10
+freeze
+
+15 15         15
+heat
+
 50 40         40
 heat
 
