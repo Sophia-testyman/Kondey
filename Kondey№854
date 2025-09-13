@@ -1,0 +1,70 @@
+IN            OUT
+20 30         30
+heat
+
+20 30         20
+freeze
+
+20 30         20
+fan
+
+10 20         20
+auto
+
+20 10         10
+auto
+
+20 10         10
+freeze
+
+10 20         10
+freeze
+
+0 15          15
+heat
+
+15 0          15
+heat
+
+0 15          0
+freeze
+
+15 0          0
+freeze
+
+50 40         40
+heat
+
+40 50         50
+heat
+
+50 40         40
+freeze
+
+40 50         40
+freeze
+
+-50 20        20
+heat
+
+20 -50        20
+heat
+
+-50 20        -50
+freeze
+
+20 -50        -50 
+freeze
+
+-50 -10       -10
+heat
+
+-10 -50       -10
+heat
+
+-10 -50       -50
+freeze
+
+-50 -10       -50
+freeze
+
